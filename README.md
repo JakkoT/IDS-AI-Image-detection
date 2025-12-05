@@ -52,12 +52,13 @@ IDS-AI-Image-detection/
 
 ### File Descriptions
 
-| File | Description |
-| `model.ipynb` | **Main notebook** - Contains the complete analysis pipeline including data loading, model training, evaluation with visualizations (confusion matrix, ROC curve, training history), and detailed explanations of each step. | |
-| `validate_image.py` | Command-line tool to classify a single image. Outputs prediction (REAL/FAKE) with confidence score. |
-| `testing.py` | Utility script to verify PyTorch installation and GPU availability. |
-| `requirements.txt` | List of all Python packages required to run the project. |
-| `archive/` | Dataset folder containing `FAKE/` and `REAL/` subdirectories with training images. |
+| File                | Description                                                                                                                                                                                                                 |
+| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `model.ipynb`       | **Main notebook** - Contains the complete analysis pipeline including data loading, model training, evaluation with visualizations (confusion matrix, ROC curve, training history), and detailed explanations of each step. |
+| `validate_image.py` | Command-line tool to classify a single image. Outputs prediction (REAL/FAKE) with confidence score.                                                                                                                         |
+| `testing.py`        | Utility script to verify PyTorch installation and GPU availability.                                                                                                                                                         |
+| `requirements.txt`  | List of all Python packages required to run the project.                                                                                                                                                                    |
+| `archive/`          | Dataset folder containing `FAKE/` and `REAL/` subdirectories with training images.                                                                                                                                          |
 
 ---
 
