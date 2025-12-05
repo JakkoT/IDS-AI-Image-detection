@@ -122,7 +122,7 @@ If you have a zipped dataset (`archive.zip`), extract it to create this structur
 
 ### Training the Model
 
-\*\*Using Jupyter Notebook
+Using Jupyter Notebook
 
 Open and run `model.ipynb` in Jupyter Notebook or VS Code. This provides:
 
